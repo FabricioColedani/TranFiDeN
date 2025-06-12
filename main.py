@@ -30,7 +30,7 @@ entry_monto.pack(pady=8, ipady=5, ipadx=20)
 # Moneda
 tk.Label(card, text="Seleccionar moneda:", **estilo_label).pack()
 combo_moneda = ttk.Combobox(card, values=list(conversion_rates.keys()), font=fuente, state="readonly")
-combo_moneda.set("🇺🇸 Dólar Estadounidense")
+combo_moneda.set("Dólar")
 combo_moneda.pack(pady=8)
 
 # Resultado
