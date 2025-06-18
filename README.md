@@ -79,4 +79,4 @@ python test_logica.py
 
 ## 📸 Captura del proyecto
 
-![Vista previa](https://web.whatsapp.com/26c49950-5aee-4a47-a3ea-3052b64d5c84)
+![Imagen de WhatsApp 2025-06-17 a las 23 48 15_6b16a4b0](https://github.com/user-attachments/assets/12c6a638-39e1-493b-a01c-b3f41425ee21)
