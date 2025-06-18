@@ -1,7 +1,3 @@
-¡Excelente presentación del proyecto, Fabri! Tu README ya está muy bien armado, pero te propongo una versión **ligeramente optimizada**, con formato Markdown listo para copiar y pegar directamente en GitHub o cualquier documento `.md`.
-
----
-
 # 💱 Conversor de Moneda a Pesos Argentinos
 
 Aplicación de escritorio visual desarrollada en Python usando **Tkinter**. Permite convertir monedas extranjeras a **pesos argentinos** de forma rápida y amigable.
