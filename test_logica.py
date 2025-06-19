@@ -24,5 +24,10 @@ class TestConversorMoneda(unittest.TestCase):
         self.assertTrue(resultado.startswith("Error"))
         self.assertEqual(color, "#FF4D4D")
 
-if __name__ == "_main_":
+    def test_monto_negativo(self):
+        resultado, color = convertir_moneda("-10", "Dólar")
+        self.assertTrue(resultado.startswith("Error"))
+        self.assertEqual(color, "#FF4D4D")
+
+if __name__ == "__main__":
     unittest.main()
