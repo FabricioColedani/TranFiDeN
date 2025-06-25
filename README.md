@@ -104,3 +104,11 @@ python test_logica.py
 ## 📸 Captura del proyecto
 
 ![Imagen de WhatsApp 2025-06-17 a las 23 48 15_6b16a4b0](https://github.com/user-attachments/assets/12c6a638-39e1-493b-a01c-b3f41425ee21)
+
+---
+
+## Links de Conversaciones con ChatGPT
+
+*https://chatgpt.com/share/6849f415-ac7c-800c-99f6-d598cda01f6c
+
+
