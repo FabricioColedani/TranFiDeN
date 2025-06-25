@@ -107,8 +107,8 @@ python test_logica.py
 
 ---
 
-## 🤖 Links de Conversaciones con ChatGPT
+## 🤖 Link de Conversación con ChatGPT
 
-https://chatgpt.com/share/6849f415-ac7c-800c-99f6-d598cda01f6c
+* **https://chatgpt.com/share/6849f415-ac7c-800c-99f6-d598cda01f6c**
 
 
