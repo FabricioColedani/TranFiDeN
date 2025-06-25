@@ -36,27 +36,27 @@ Aplicación de escritorio visual desarrollada en Python usando **Tkinter**. Perm
 
 ## 📖 Historias de usuario (Formato Ágil)
 
-Historia 1
+* Historia 1
 
-Como usuario,
+**Como usuario**,
 quiero poder ingresar un monto y elegir una moneda,
 para saber a cuántos pesos argentinos equivale.
 
-Historia 2
+* Historia 2
 
-Como usuario,
+**Como usuario**,
 quiero que la aplicación me alerte si ingreso datos incorrectos,
 para no obtener resultados erróneos.
 
-Historia 3
+* Historia 3
 
-Como desarrollador,
+**Como desarrollador**,
 quiero separar el código en módulos y responsabilidades,
 para poder trabajar en equipo sin conflictos.
 
-Historia 4
+* Historia 4
 
-Como usuario,
+**Como usuario**,
 quiero ver los resultados claramente en pantalla,
 para comprender fácilmente la conversión.
 
